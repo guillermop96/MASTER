@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cinepolis - Tu pasión por el cine</title>
+  <meta name="description" content="Cinepolis: Tu sala de cine favorita con las mejores películas y estrenos. Compra tus entradas online y disfruta de una experiencia única.">
+  <meta name="keywords" content="Cinepolis, cine, películas, estrenos, cartelera, entradas, online, experiencia">
+  <base href=">https://www.cinepolis.com/>">
+  <link rel="icon" href="favicon.ico">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  ...
+</body>
+</html>
